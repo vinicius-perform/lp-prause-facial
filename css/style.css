@@ -588,7 +588,7 @@ h1, h2, h3, h4, h5 {
     height: clamp(520px, 35.2vw, 680px);
     padding-top: 76px;
     padding-bottom: 0;
-    background-image: url('../public/bgprause-desktop.webp');
+    background-image: url('../assets/images/bgprause-desktop.webp');
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
