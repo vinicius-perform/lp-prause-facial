@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none" stroke="currentColor">
+  <!-- Órbita ocular e linhas periorbitais de blefaroplastia -->
+  <path d="M 120,200 C 200,120 380,120 480,200 C 380,280 200,280 120,200 Z" stroke-width="1.5"/>
+  <path d="M 170,195 C 220,150 340,150 430,195" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <circle cx="300" cy="200" r="45" stroke-width="1"/>
+  <circle cx="300" cy="200" r="16" stroke-width="0.8"/>
+  <path d="M 100,160 C 220,90 380,90 500,160" stroke-width="0.8" stroke-dasharray="2 6"/>
+  <path d="M 140,240 C 240,285 360,285 460,240" stroke-width="0.8" stroke-dasharray="3 5"/>
+</svg>
