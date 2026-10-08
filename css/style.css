@@ -577,6 +577,9 @@ h1, h2, h3, h4, h5 {
   background-color: #011631;
   position: relative;
   overflow: hidden;
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 @media (min-width: 992px) {
@@ -587,7 +590,7 @@ h1, h2, h3, h4, h5 {
     padding-bottom: 0;
     background-image: url('../assets/images/hero-bg-desktop.jpg');
     background-size: cover;
-    background-position: right center;
+    background-position: top center;
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
@@ -601,7 +604,7 @@ h1, h2, h3, h4, h5 {
     padding-top: clamp(340px, 86vw, 440px);
     padding-bottom: 60px;
     background-image: url('../assets/images/hero-bg-mobile-enhanced.jpg');
-    background-size: 100% auto;
+    background-size: cover;
     background-position: top center;
     background-color: #011631;
     background-repeat: no-repeat;
